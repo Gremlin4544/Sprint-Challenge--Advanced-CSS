@@ -193,6 +193,7 @@ footer {
 }
 .home .intro p {
   padding: 0 15px;
+  font-size: 1.3rem;
 }
 .home .space-images {
   display: flex;
@@ -213,6 +214,7 @@ footer {
 }
 .home .visit-planets p {
   margin-top: 13px;
+  font-size: 1.3rem;
 }
 .home .walk {
   margin-top: 60px;
@@ -229,6 +231,7 @@ footer {
 }
 .home .walk .walk-text p {
   margin-bottom: 26px;
+  font-size: 1.3rem;
 }
 .home .walk .walk-img {
   width: 46%;
