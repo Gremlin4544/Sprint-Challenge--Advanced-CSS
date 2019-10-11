@@ -233,16 +233,7 @@ footer {
   margin-bottom: 26px;
   font-size: 1.3rem;
 }
-.home .walk .walk-img {
-  width: 46%;
-  margin-left: 4%;
-}
-.home .walk .walk-img img {
-  width: 100%;
-  height: auto;
-  border-radius: 10px;
-}
-.home .btn {
+.home .walk .walk-text .btn {
   display: flex;
   font-size: 2rem;
   color: #F6F6F6;
@@ -253,4 +244,13 @@ footer {
   justify-content: center;
   align-items: center;
   margin-bottom: 4vh;
+}
+.home .walk .walk-img {
+  width: 46%;
+  margin-left: 4%;
+}
+.home .walk .walk-img img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
 }
