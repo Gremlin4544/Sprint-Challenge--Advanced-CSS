@@ -242,3 +242,15 @@ footer {
   height: auto;
   border-radius: 10px;
 }
+.home .btn {
+  display: flex;
+  font-size: 2rem;
+  color: #F6F6F6;
+  background: #22283A;
+  height: 13%;
+  width: 40%;
+  border-radius: 12px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 4vh;
+}
