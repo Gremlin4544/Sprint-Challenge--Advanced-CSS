@@ -9,3 +9,18 @@
     justify-content: @justify;
     align-content: @align;
 }
+
+//Parametric
+
+.button(@back-colour,  @font-color) {
+    display: flex;
+    font-size: 1.8rem;
+    color:@font-color;
+    background: @back-colour;
+    height: 13%;
+    width: 85%;
+    border-radius: 12px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 4vh;
+}
