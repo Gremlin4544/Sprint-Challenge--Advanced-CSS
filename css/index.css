@@ -160,6 +160,24 @@ p {
   width: 100%;
   margin: 0 auto;
 }
+.logo {
+  text-align: center;
+  padding: 3vh 0 0.75vh 0;
+}
+.logo h1 {
+  font-size: 3rem;
+}
+nav {
+  display: flex;
+  padding: 1%;
+  justify-content: center;
+}
+nav a {
+  text-decoration: none;
+  color: black;
+  padding: 0 2vw;
+  font-size: 1.25rem;
+}
 footer {
   color: #22283B;
   background: #f4f4f4;
